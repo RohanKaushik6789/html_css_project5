@@ -17,3 +17,4 @@
 
 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d3e213a8-e1ca-4905-8d75-1eee64a9b151/deploy-status)](https://rohankaushik5th.netlify.app/)
